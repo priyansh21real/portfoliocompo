@@ -54,7 +54,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right ' });
 
 
 const typed = new Typed('.repeating-text', {
-    strings: ['Software Developer', 'Frontend Developer', 'Analyst', 'Blogger'],
+    strings: ['Software Developer', 'Data Analyst', 'Frontend Developer'],
     typeSpeed:100,
     backSpeed: 100,
     backDelay: 1000,
